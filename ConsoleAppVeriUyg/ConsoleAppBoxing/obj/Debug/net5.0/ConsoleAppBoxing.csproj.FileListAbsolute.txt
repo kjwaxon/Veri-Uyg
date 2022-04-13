@@ -1,0 +1,16 @@
+C:\Users\Asus\source\repos\ConsoleAppVeriUyg\ConsoleAppBoxing\bin\Debug\net5.0\ConsoleAppBoxing.exe
+C:\Users\Asus\source\repos\ConsoleAppVeriUyg\ConsoleAppBoxing\bin\Debug\net5.0\ConsoleAppBoxing.deps.json
+C:\Users\Asus\source\repos\ConsoleAppVeriUyg\ConsoleAppBoxing\bin\Debug\net5.0\ConsoleAppBoxing.runtimeconfig.json
+C:\Users\Asus\source\repos\ConsoleAppVeriUyg\ConsoleAppBoxing\bin\Debug\net5.0\ConsoleAppBoxing.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\ConsoleAppVeriUyg\ConsoleAppBoxing\bin\Debug\net5.0\ConsoleAppBoxing.dll
+C:\Users\Asus\source\repos\ConsoleAppVeriUyg\ConsoleAppBoxing\bin\Debug\net5.0\ref\ConsoleAppBoxing.dll
+C:\Users\Asus\source\repos\ConsoleAppVeriUyg\ConsoleAppBoxing\bin\Debug\net5.0\ConsoleAppBoxing.pdb
+C:\Users\Asus\source\repos\ConsoleAppVeriUyg\ConsoleAppBoxing\obj\Debug\net5.0\ConsoleAppBoxing.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\ConsoleAppVeriUyg\ConsoleAppBoxing\obj\Debug\net5.0\ConsoleAppBoxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\ConsoleAppVeriUyg\ConsoleAppBoxing\obj\Debug\net5.0\ConsoleAppBoxing.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ConsoleAppVeriUyg\ConsoleAppBoxing\obj\Debug\net5.0\ConsoleAppBoxing.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ConsoleAppVeriUyg\ConsoleAppBoxing\obj\Debug\net5.0\ConsoleAppBoxing.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ConsoleAppVeriUyg\ConsoleAppBoxing\obj\Debug\net5.0\ConsoleAppBoxing.dll
+C:\Users\Asus\source\repos\ConsoleAppVeriUyg\ConsoleAppBoxing\obj\Debug\net5.0\ref\ConsoleAppBoxing.dll
+C:\Users\Asus\source\repos\ConsoleAppVeriUyg\ConsoleAppBoxing\obj\Debug\net5.0\ConsoleAppBoxing.pdb
+C:\Users\Asus\source\repos\ConsoleAppVeriUyg\ConsoleAppBoxing\obj\Debug\net5.0\ConsoleAppBoxing.genruntimeconfig.cache

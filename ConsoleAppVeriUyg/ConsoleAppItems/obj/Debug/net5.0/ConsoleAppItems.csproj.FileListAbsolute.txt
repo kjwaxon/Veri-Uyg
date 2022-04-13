@@ -1,0 +1,16 @@
+C:\Users\Asus\source\repos\ConsoleAppVeriUyg\ConsoleAppItems\bin\Debug\net5.0\ConsoleAppItems.exe
+C:\Users\Asus\source\repos\ConsoleAppVeriUyg\ConsoleAppItems\bin\Debug\net5.0\ConsoleAppItems.deps.json
+C:\Users\Asus\source\repos\ConsoleAppVeriUyg\ConsoleAppItems\bin\Debug\net5.0\ConsoleAppItems.runtimeconfig.json
+C:\Users\Asus\source\repos\ConsoleAppVeriUyg\ConsoleAppItems\bin\Debug\net5.0\ConsoleAppItems.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\ConsoleAppVeriUyg\ConsoleAppItems\bin\Debug\net5.0\ConsoleAppItems.dll
+C:\Users\Asus\source\repos\ConsoleAppVeriUyg\ConsoleAppItems\bin\Debug\net5.0\ref\ConsoleAppItems.dll
+C:\Users\Asus\source\repos\ConsoleAppVeriUyg\ConsoleAppItems\bin\Debug\net5.0\ConsoleAppItems.pdb
+C:\Users\Asus\source\repos\ConsoleAppVeriUyg\ConsoleAppItems\obj\Debug\net5.0\ConsoleAppItems.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\ConsoleAppVeriUyg\ConsoleAppItems\obj\Debug\net5.0\ConsoleAppItems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\ConsoleAppVeriUyg\ConsoleAppItems\obj\Debug\net5.0\ConsoleAppItems.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ConsoleAppVeriUyg\ConsoleAppItems\obj\Debug\net5.0\ConsoleAppItems.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ConsoleAppVeriUyg\ConsoleAppItems\obj\Debug\net5.0\ConsoleAppItems.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ConsoleAppVeriUyg\ConsoleAppItems\obj\Debug\net5.0\ConsoleAppItems.dll
+C:\Users\Asus\source\repos\ConsoleAppVeriUyg\ConsoleAppItems\obj\Debug\net5.0\ref\ConsoleAppItems.dll
+C:\Users\Asus\source\repos\ConsoleAppVeriUyg\ConsoleAppItems\obj\Debug\net5.0\ConsoleAppItems.pdb
+C:\Users\Asus\source\repos\ConsoleAppVeriUyg\ConsoleAppItems\obj\Debug\net5.0\ConsoleAppItems.genruntimeconfig.cache
